@@ -1,4 +1,4 @@
-# README #
+# UNIT CONVERTOR #
 
 Unit convertor iOS App
 
@@ -6,8 +6,8 @@ Unit convertor iOS App
 
 * Convert Weight(Gram, Kilogram, Pound, Ounce)
 * Convert Temperature(Celcius, Farenheit, Kelvin)
-* Convert Distance(Metre, Foot, Yard, Kilometre, Mile)
-* Convert Speed(Metre per sec, Feet per minute, Kilometre per hour, Mile per hour)
+* Convert Distance(Meter, Foot, Yard, Kilometer, Mile)
+* Convert Speed(Meter per sec, Feet per minute, Kilometer per hour, Mile per hour)
 
 ### Who do I talk to? ###
 
