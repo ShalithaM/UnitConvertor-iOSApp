@@ -74,7 +74,6 @@
                                 <textInputTraits key="textInputTraits" keyboardType="decimalPad"/>
                                 <connections>
                                     <action selector="ChangePoundTxt:" destination="9pv-A4-QxB" eventType="editingChanged" id="Hqa-hr-0Xm"/>
-                                    <action selector="TouchKilogramTxt:" destination="9pv-A4-QxB" eventType="editingDidEnd" id="hio-y2-KXt"/>
                                     <action selector="TouchPoundTxt:" destination="9pv-A4-QxB" eventType="touchDown" id="gPG-4X-xW4"/>
                                 </connections>
                             </textField>
